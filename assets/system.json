@@ -1,0 +1,100 @@
+{
+    "users": [
+        {
+            "processor": "Intel i5 9th Gen",
+            "GPU": "NVIDIA GTX 1080",
+            "RAM": "8 GB",
+            "Storage": "1TB SSD",
+            "Motherboard": "Asus Prime"
+        },
+        {
+            "processor": "Intel i5 10th Gen",
+            "GPU": "NVIDIA GTX 1080",
+            "RAM": "16 GB",
+            "Storage": "1TB SSD",
+            "Motherboard": "Asus Prime"
+        },
+        {
+            "processor": "Intel i5 11th Gen",
+            "GPU": "NVIDIA RTX 2080",
+            "RAM": "32 GB",
+            "Storage": "1TB SSD",
+            "Motherboard": "Asus Prime"
+        },
+        {
+            "processor": "Intel i7 9th Gen",
+            "GPU": "NVIDIA GTX 1080",
+            "RAM": "8 GB",
+            "Storage": "1TB SSD",
+            "Motherboard": "Asus Prime"
+        },
+        {
+            "processor": "Intel i7 10th Gen",
+            "GPU": "NVIDIA GTX 1080",
+            "RAM": "8 GB",
+            "Storage": "1TB SSD",
+            "Motherboard": "Asus Prime"
+        },
+        {
+            "processor": "Intel i7 11th Gen",
+            "GPU": "NVIDIA GTX 1080",
+            "RAM": "8 GB",
+            "Storage": "1TB SSD",
+            "Motherboard": "Asus Prime"
+        },
+        {
+            "processor": "Intel i9 9th Gen",
+            "GPU": "NVIDIA GTX 1080",
+            "RAM": "8 GB",
+            "Storage": "1TB SSD",
+            "Motherboard": "Asus Prime"
+        },
+        {
+            "processor": "Intel i9 10th Gen",
+            "GPU": "NVIDIA GTX 1080",
+            "RAM": "8 GB",
+            "Storage": "1TB SSD",
+            "Motherboard": "Asus Prime"
+        },
+        {
+            "processor": "Intel i9 11th Gen",
+            "GPU": "NVIDIA GTX 1080",
+            "RAM": "8 GB",
+            "Storage": "1TB SSD",
+            "Motherboard": "Asus Prime"
+        },
+        {
+            "name": "AMD Ryzen 5 2500",
+            "id": "10",
+            "atype": "Permanent"
+        },
+        {
+            "processor": "AMD Ryzen 5 3500",
+            "GPU": "NVIDIA GTX 1080",
+            "RAM": "8 GB",
+            "Storage": "1TB SSD",
+            "Motherboard": "Asus Prime"
+        },
+        {
+            "processor": "AMD Ryzen 5 5500",
+            "GPU": "NVIDIA GTX 1080",
+            "RAM": "8 GB",
+            "Storage": "1TB SSD",
+            "Motherboard": "Asus Prime"
+        },
+        {
+            "processor": "AMD Ryzen 7 2500",
+            "GPU": "NVIDIA GTX 1080",
+            "RAM": "8 GB",
+            "Storage": "1TB SSD",
+            "Motherboard": "Asus Prime"
+        },
+        {
+            "processor": "AMD Ryzen 7 3500",
+            "GPU": "NVIDIA GTX 1080",
+            "RAM": "8 GB",
+            "Storage": "1TB SSD",
+            "Motherboard": "Asus Prime"
+        }
+    ]
+}
